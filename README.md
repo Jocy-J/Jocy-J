@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jocy-J
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning how to be write better algorithms
+- 🌱 I’m currently learning how to write better algorithms
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me: josephmulatu1@gmail.com
 
